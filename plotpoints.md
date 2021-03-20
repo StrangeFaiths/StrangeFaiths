@@ -101,7 +101,7 @@
 ## Chapter 5 - Giotto - Otho's Arc II
 ### Chapter 5 Themes
 * Living Peacefully
-* Anger and Regret
+* Regret and irredeemability 
 
 * The father abused his son a lot when he was younger.
 * He found out that he enlisted in the army to get away from him. 
@@ -109,20 +109,51 @@
 * It was there he found peace fishing once more.
 * He hoped to repair his relationship with his son once he came back.
 ### Chapter 5 Structure
+* Introduce Adio
+  * Daily routine
+  * Show he's a widower, wife's grave
+    * He speaks that their son hasn't returned. Make it vague.
+    * 
 * Describe Adio sets off to the village
+  * Describe Adio's Hut
+    * Dusted Bottles
+    * Furniture / Layout
+      * Beds, Table, Chairs, Dishware.
+    * Walls, Floor, Ceiling
   * Describe the pathway along.
+    * Forest
+      * Compare the sand and the dirt
+      * Thin Trees
+      * 
   * Personality, Apparel
-* Describe the village
+* Describe the Fishing village
   * Sight, Scent, Sound
+  * Inhabitants
+  * Need a conversation that lets readers know they know each other
+    * Trisus talks of the rumors amongst the people of Adio.
+    * Adio pays no heed.
+    * He waits 
 * Adio goes into the village to buy supplies.
   * Adio must prepare himself mentally before entering.
   * He waves to everyone with ethusiasm.
   * Many people awkwardly acknowledge him.
-  * Introduce Trisus, Adio gives Trisus liqour
-    * Describe looks, scent, and personality.
-  * Adio buys supplies from a man and he asks why he gives Trisus liqour
-    * Adio responds that he and Trisus go far back.
-    * Adio won't drink anymore and says it'd be a shame to let it waste.
+  * Adio approaches the fishing supply merchant
+    * Introduce Trisus, Trisus is sitting on the side of the shop.
+      * Describe looks, scent, and personality.
+        * Tattered, Liqour, Unmoving.
+      * Trisus and Adio are acquaintances
+        * They are both considered outcasts, though different types
+        * Trisus is an outsider.
+        * Adio is an exile.
+    * The merchant goes to the storage.
+      * Adio gives Trisus liqour
+    * Adio buys supplies.
+      * Shopkeep asks Adio, If he's trying to get god to forgive him by feeding that drunkard like a stray dog.
+      * Adio responds Forgiveness is not up to God. It's up to my son
+        * Adio says it'd be a shame to let it waste.
+      * Trisus makes a generalization about how the village treats them.
+      * Adio tells Trisus they are not similar, because what he has done is much worse.
+      * SK tells 
 * Adio returns to his hut an hour of walking.
   * He leaves to go fishing.
   * Bird drops a medallion from the sky
@@ -133,6 +164,7 @@
   * Describe Couriers
     * Othos, Zedik, Cahira
     * Name them off, Their looks, their sins.
+    * They're skinny near death from malnutrition.
     * They are carrying long rectangular boxes.
 * The elder greets the couriers to their abode.
   * He asks who they are delivering to.
@@ -159,11 +191,6 @@
   * Adio moves the boat back and tries to go inside.
   * Trisus stops him and tells him to receive his blessing from the couriers.
     * Trisus takes the fish and prepares.
-* Describe Adio's Hut
-  * Dusted Bottles
-  * Furniture / Layout
-    * Beds, Table, Chairs, Dishware.
-  * Walls, Floor, Ceiling,
 * The couriers perform the ritual.
   * Describe what is happening to the coffin.
     * Transferrence of the body and presentation in a respectable manner.
