@@ -1,2 +1,3 @@
 # StrangeFaiths
-From filth and muck, we rise, but only to find few answers.
+Personal Short Story
+Uploaded to Github for ease of writing.
