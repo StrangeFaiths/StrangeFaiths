@@ -1,20 +1,19 @@
-Adio awoke from his slumber. Scratching his grey hair, he rose from his hay bed and stretched. He peered over to the hearth. Smoked fish hung underneath the dying fire. 
+Adio awoke from his slumber. Scratching his grey hair, he rose from his hay bed and stretched. He peered over to the hearth. Smoked fish hung underneath a dying fire. He walked to his cabinet and grabbed two plates from a set of three. Plucking a fish along the way, he sat down and ate. A piece fell on his stained brown shorts. Grumbling, he picked it up and inspected his attire. A large rip ran on his white shirt from his neck to his armpit. 
 
-Out of three plates, he picked two and set them on the table. A piece of fish fell on his stained brown shorts. Grumbling, he picked it up and checked the rip on his white shirt. The fisherman picked up his fishing rods and coin pouch. 
+Finishing his breakfast, Adio picked up his fishing rods and donned a straw hat. Before stepping out, the fisherman peered over to his cabinet full of dusty liqour bottles. With a frown, he picked one up and left.
 
->> He inspects his fishing rod and it has a broken line.
-
-Before stepping out, he peered over to his cabinet full of dusty liqour bottles. With a pained smile, he picked one up and left.
-
-The sun had barely risen from the sea. The air was cold with morning dew and salt. Adio stepped onto the cold sand, and set his rods onto his boat. Turning around, he inspected the outside of his home. A hollow sound came upon knocking upon the wooden walls. Leaving holes, hay slipped down the roof exposing the wood base. Adio sighed and strolled into the forest.
+The sun had barely risen from the sea. The air was cold with morning dew and salt. Adio stepped onto the cool sand, and set his rods onto his boat. With a sigh, he strolled into the forest. 
 
 >> Forest Description
-The mud was fresh.
+The mud was moist on his feet. The fisherman walked along an unbeaten path. At the end of the path was a single grave. It was marked with a wooden cross and decorated with various forest flowers. Sitting in front of the grave, he bows his head. 
 
-Redo, probably omit the top portion nothing happens. leave hut to when he comes back.
----
-Standing on the outskirts of a forest, Adio readied himself. Just 50 steps ahead was a fishing village. 
-Thoughts of the stares he would receive held him back. With a deep breath, the fisherman stepped forward.
+    "Hello dear, it's been a while. Today marks the 10th autumn since my last drink. Luc hasn't returned yet. I pray everyday for his safe arrival, but I-..."
+
+    "I understand if he doesn't forgive me. But I hope that he returns for you."
+
+After saying prayers, Adio heads off.
+
+Standing on the outskirts of a forest, Adio readied himself. Just 50 steps ahead was a village. Thoughts of the stares he would receive held him back. He took deep breaths. Stengthening his resolve, the fisherman stepped forward.
 
 The first villager caught eyes with him. With the best smile he could force, Adio waved. The man scowled and continued on.
 
@@ -26,24 +25,51 @@ With a deep breath and a forced smile, Adio paced into the village. Eyes gathere
 
 >> Adio buys from the shopkeeper, lines and
 
-The shopkeeper's eyes followed Adio. His voice was tense. "Tell me what you need, take it, and leave. Having your ilk here is bad for business."
+The shopkeeper's eyes followed Adio. 
 
 "New lines, please."
+
+The shopkeeper walked into his hut.
 
 A man lied on the ground. Several bottles of liqour scattered around him. The thick scent of wine emitted from him. The drunk wore tattered brown rags. His grey beard grew down to his chest, and his grey-brown hair was down to his shoulders.
 
 The fisherman tapped the drunk's shoulder and placed down a bottle of wine. "Trisus, here's one for today." 
 
+    "Blessin's for ya kind heart Adio."
 
-The shopkeeper returned with a roll of string. He frowns. "You feed that drunkard everyday and he'll come back like a stray dog. Are you trying to redeem yourself in the face of god?"
 
-"Repenting is part of god's teachings." Adio turned. "You may all say what you will about me. Forgiveness is not up to you, me, or god."
+The shopkeeper returned with a roll of string. He handed the string to Adio. As Adio grasped it, the shopkeeper didn't let go.
 
-With a toothy grin, Trisus rises and roughly pats Adio's back. The two walk out of the village.
+    "Why are you feeding that beggar Adio?"
 
-"Bless your kind heart, Adio." He drinks from his bottle, "They like to spread rumors don't they? No matter what you and I do, we're always scum at the bottom of their soles." 
+    "They say charity is a virtue of god, so I wanted to express my virtues."
 
-"They treat you as such because you live that way. What I have done is much worse, and I shall live with that scar until I am forgiven." Adio patted his friend's shoulder and faintly smiled. "Come by my hut for dinner. I have a good feeling about today's catch."
+    "Tell me Adio. Has your son returned?"
+
+    Adio fell silent.
+
+    "Do you have time to worry about virtues?"
+
+    "I have prayed everyday for his return."
+
+    "Praying? How many years has it been Adio?"
+
+    "I'm sorry I didn't mean to-."
+
+    "Leave."
+
+The fisherman left.
+
+Ignoring the stares, Adio walked to the outskirts of the village. A hand slapped his back. 
+
+With a toothy grin, Trisus slaps Adio's back again.
+
+    "Sorry I'm givin' ya trouble. I've never seen 'em like that. " 
+
+    "I do this because I want to. "
+
+
+"Come by my hut for dinner. I have a good feeling about today's catch."
 
 "" ""
 
@@ -55,15 +81,19 @@ The village elder pushed through the crowd. Three figures stood at the gates. Th
 
 >> Courier Descriptions
 
-"Welcome, Couriers." The village elder announced. "I apologize for the commotion. Our humble village do not have any soldiers off to the war. If I may ask, to where are you delivering to?"
+"Welcome, Couriers." The village elder announced. "Apologies for the commotion. Our humble village has no soldiers at the war. If I may ask, to where are you delivering to?"
 
 They spoke in exhausted unison. "By the decree of the templars, we seek one of the Nobilas family. In order to return what has been taken from them."
 
 The village erupted in chatter.
 
-The elder taps the back of his cleaver onto a table. ""
+The elder tapped the back of his cleaver onto a table. "Would anyone volunteer to guide these couriers to Adio's hut?"
 
-"Allow me Elder ****." Trisus rose and patted the dirt off his rags.
+The crowd was silent. Stares scanned around for anyone willing. A lone man walked forward.
+
+"Allow me."
+
+Trisus patted the dirt off his rags.
 
 "" ""
 >>> Adio receiving the medallion.

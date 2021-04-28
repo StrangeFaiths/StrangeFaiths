@@ -138,22 +138,24 @@
   * He waves to everyone with ethusiasm.
   * Many people awkwardly acknowledge him.
   * Adio approaches the fishing supply merchant
-    * Introduce Trisus, Trisus is sitting on the side of the shop.
+    * Introduce Trisus
       * Describe looks, scent, and personality.
-        * Tattered, Liqour, Unmoving.
+        * Shopkeeper, laid-back
       * Trisus and Adio are acquaintances
         * They are both considered outcasts, though different types
-        * Trisus is an outsider.
+        * Trisus is a known drunk.
         * Adio is an exile.
     * The merchant goes to the storage.
-      * Adio gives Trisus liqour
     * Adio buys supplies.
-      * Shopkeep asks Adio, If he's trying to get god to forgive him by feeding that drunkard like a stray dog.
-      * Adio responds Forgiveness is not up to God. It's up to my son
-        * Adio says it'd be a shame to let it waste.
-      * Trisus makes a generalization about how the village treats them.
-      * Adio tells Trisus they are not similar, because what he has done is much worse.
-      * SK tells 
+      * Trisus comments on how they've exchanged for years, but have never known each other.
+    * Trisus invites Adio to join him for dinner at his house.
+      * Adio politely declines
+        * He makes an excuse of making his wife cook more.
+        * Adio offers to instead come to his house for dinner.
+    * Trisus' wife waves him off to go.
+    * The two shake on it.
+* A commotion stirs at the entrance of the village.
+  * Adio is disinterested in it. He tells Trisus to tell him about it later.
 * Adio returns to his hut an hour of walking.
   * He leaves to go fishing.
   * Bird drops a medallion from the sky
